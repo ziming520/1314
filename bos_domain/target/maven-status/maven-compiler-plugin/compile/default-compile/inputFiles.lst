@@ -1,0 +1,15 @@
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\TakeTime.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\take_delivery\Order.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\Archive.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\take_delivery\WayBill.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\SubArchive.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\Vehicle.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\FixedArea.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\page\PageBean.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\constant\Constants.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\Area.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\Courier.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\SubArea.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\base\Standard.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\take_delivery\WorkBill.java
+D:\workspace\bos_v2.0\bos_domain\src\main\java\cn\itcast\bos\domain\take_delivery\Promotion.java
